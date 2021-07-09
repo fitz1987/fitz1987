@@ -2,7 +2,7 @@
 - 👀 I’m currently interested in bio applications of machine learning    
 - 🌱 I’m currently learning python, SQL, machine learning     
 - 📫 How to reach me: fitz1987 at protonmail dot com (replace some of those words with the pertinent symbols)     
-- ⚗️ Chemistry-related scripts are in repo: (NAME)     
+- ⚗️ Chemistry-related scripts are in repo: https://github.com/fitz1987/chem_shell_scripts   
 - 🗝 Cryptopals solutions are in repo: (NAME)       
 - 📗 Notebooks for Kaggle machine learning competitions are in repo: (NAME)     
 - 🧮 Leetcode profile: https://leetcode.com/fitz1987/ 
