@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fitz1987   
-- 👀 I’m currently interested in bio applications of machine learning    
+- 👀 I’m currently interested in bio + chem applications of machine learning    
 - 🌱 Learning: python, SQL, machine learning     
 - 📫 How to reach me: fitz1987 at protonmail dot com   
 - ⚗️ Chemistry-related shell scripts for data processing are here: https://github.com/fitz1987/chem_shell_scripts   
